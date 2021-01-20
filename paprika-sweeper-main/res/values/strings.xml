@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="author"> Created in March 2019 by Jiin Jeong / AIT-Budapest </string>
+    <string name="flag_paprika">CONGRATS! You flagged a paprika!</string>
+    <string name="flag_safe">GAME OVER! You flagged a safe field!</string>
+    <string name="click_safe">CONGRATS! You clicked a safe field!</string>
+    <string name="click_paprika">GAME OVER! You clicked a paprika!</string>
+    <string name="place_a_flag">Place a Flag</string>
+    <string name="try_a_field">Try a Field</string>
+    <string name="restart">Restart</string>
+    <string name="welcome">Welcome! Your level is %1$s, with %2$s paprikas.</string>
+    <string name="title">PaprikaSweeper</string>
+    <string name="spiciness">Select a spiciness:</string>
+    <string name="mild">Mild</string>
+    <string name="medium">Medium</string>
+    <string name="spicy">Spicy</string>
+    <string name="win">YOU WON! You found all the paprikas!</string>
+    <string name="time">Time Elapsed - %s</string>
+</resources>
