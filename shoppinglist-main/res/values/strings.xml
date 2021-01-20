@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view_item_details">View Item Details</string>
+    <string name="purchase_status">Already Purchased</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_list">Delete List</string>
+    <string name="wallet">Wallet</string>
+    <string name="item_description">Item Description</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="_24_04_2019">24. 04. 2019.</string>
+    <string name="item_name">Item name</string>
+    <string name="author">Jiin\'s Shopping List</string>
+    <string name="welcome">Let\'s Go Shopping!</string>
+    <string name="shopping_handler_exception">The activity does not implement the ShoppingHandlerInterface</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="new_shopping">New shopping</string>
+    <string name="food">Food</string>
+    <string name="edit_shopping">Edit shopping</string>
+    <string name="empty_error">This field can not be empty</string>
+    <string name="about">A shopping list...; Created in April 2019.</string>
+    <string name="action">Action</string>
+    <string name="edit_dialog">EDIT_DIALOG</string>
+    <string name="created">Created on:</string>
+    <string name="item_details">Item details</string>
+    <string name="shopping">shopping.db</string>
+    <string name="item">Item: </string>
+    <string name="tool">Tool</string>
+    <string name="toy">Toy</string>
+    <string name="clothes">Clothes</string>
+    <string name="drink">Drink</string>
+    <string name="detail_dialog">DETAIL_DIALOG</string>
+    <string name="price">Price: </string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="tag_wallet">TAG_WALLET</string>
+    <string name="tag_add_dialog">ADD_DIALOG</string>
+    <string name="tag_wallet_dialog">WALLET_DIALOG</string>
+    <string name="spent">You spent</string>
+</resources>
