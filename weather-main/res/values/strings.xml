@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW3Weather</string>
+    <string name="title_activity_city_scrolling">CityScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="city_key">KEY_CITY</string>
+    <string name="city_db">city.db</string>
+    <string name="exception_cityhandler">The activity does not implement the CityHandler</string>
+    <string name="ok">OK</string>
+    <string name="close">CLOSE</string>
+    <string name="city_name">City Name</string>
+    <string name="exception_blank">You cannot leave this blank.</string>
+    <string name="add_dialog">ADD_DIALOG</string>
+</resources>
