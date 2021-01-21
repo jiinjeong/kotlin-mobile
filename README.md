@@ -1,5 +1,5 @@
 # kotlin-mobile
-* **Description**: Android mobile applications using Kotlin/Android Studio. This repository only contains the src/main code. To run the program, you need Android Studio and other components of the app including the Gradle build, etc. After download, you should **Build > Clean Project** and **Build > Rebuild Project** to avoid errors with old APKs, etc
+* **Description**: Android mobile applications using Kotlin/Android Studio. This repository only contains the **src/main** code. To run the program, you need Android Studio and other components of the app including the Gradle build, etc. After download, you should **Build > Clean Project** and **Build > Rebuild Project** to avoid errors with old APKs, etc
 * **Date**: Feb - June 2019
 * **Special Thanks**: Professor Ekler (AIT/BME) who provided guidance.
 
