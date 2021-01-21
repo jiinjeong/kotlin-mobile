@@ -16,6 +16,6 @@ Implements a Weather Info app using weather info from OpenWeatherMap. Uses netwo
 ![Screenshot](Weather.png)
 
 ## Project 4: Travel Pal <br>
-Implements a travel app that is personalized and encompassing, helping travelers before, during, and after the trip. Includes a packing list, music playlist, emergency information, map and diary feature, weather information, and budget planner. Uses network communication, Dialogs, Fragments, Adapter, and local data management through Room and DAO.
-* **Teammates**: Rachel Kang, Claire Donovan
+Implements a travel app that is personalized and encompassing, helping travelers before, during, and after the trip. Includes a packing list, music playlist, emergency information, map and diary feature, weather information, and budget planner. Uses network communication, Dialogs, Fragments, Adapter, and local data management through Room and DAO. <br>
+**Teammates**: Rachel Kang, Claire Donovan
 ![Screenshot](TravelPal.png)
