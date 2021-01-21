@@ -1,5 +1,5 @@
 # kotlin-mobile
-Android mobile applications using Kotlin/Android Studio (Feb - June 2019). This repository only contains that src/main code. To run the program, you need Android Studio and other components of the app including the Gradle build, etc. After download, you should Build > Clean Project and Build > Rebuild Project to avoid errors with old APKs, etc.
+Android mobile applications using Kotlin/Android Studio (Feb - June 2019). This repository only contains the src/main code. To run the program, you need Android Studio and other components of the app including the Gradle build, etc. After download, you should Build > Clean Project and Build > Rebuild Project to avoid errors with old APKs, etc.
 
 **Project 1: Paprika Sweeper** <br>
 Implements a Paprika-themed variation of the classic Minesweeper game. Uses XML UI, Custom views, basic View components, and Activity.
