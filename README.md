@@ -11,4 +11,4 @@ Implements basic shopping list application where users can see the items they wi
 
 **Project 3: Weather** <br>
 Implements a Weather Info app using weather info from OpenWeatherMap. Uses network communication, HTTP, JSON parsing, and external libraries.
-
+![Screenshot](Weather.png)
