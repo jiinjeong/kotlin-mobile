@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_packing_list"
+            android:icon="@drawable/ic_playlist_add_check"
+            android:title="Packing List"/>
+
+    <item
+            android:id="@+id/navigation_travel_info"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="Travel Info"/>
+
+    <item
+            android:id="@+id/navigation_budget"
+            android:icon="@drawable/ic_attach_money"
+            android:title="Budget Management"/>
+
+</menu>

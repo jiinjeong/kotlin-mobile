@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical" android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/circuit">
+
+    <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/tvWelcomeElectronics"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:text="@string/update_your_electronics"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="25sp"
+            android:textColor="#CDD4F5"
+            android:background="#478ADB"
+            android:textStyle="bold"
+            android:fontFamily="@font/gloria_hallelujah"/>
+
+    <Button
+            android:id="@+id/btnEmergency"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/save_emer_num" />
+
+    <TextView
+            android:id="@+id/tvEmergencyCallResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="8sp"
+            android:textColor="#2B2626"
+            android:fontFamily="sans-serif-medium"/>
+
+    <TextView
+            android:id="@+id/tvFire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textSize="20sp"
+            android:textColor="#2B2626"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-light"/>
+
+    <TextView
+            android:id="@+id/tvAmbulance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#2B2626"
+            android:fontFamily="sans-serif-light"/>
+
+    <TextView
+            android:id="@+id/tvPolice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#2B2626"
+            android:fontFamily="sans-serif-light"/>
+
+    <ImageView
+            android:id="@+id/imgEmerg"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/oneonetwo"
+            android:scaleType="fitXY"/>
+
+    <Button
+            android:id="@+id/btnAdapter"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Check your adapter" />
+
+
+    <TextView
+            android:id="@+id/tvAdapter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            android:text="Your required adapter is 230V."
+            android:textSize="20sp"
+            android:textColor="#2B2626"
+            android:fontFamily="sans-serif-light"/>
+
+    <ImageView
+            android:id="@+id/imgAdapter"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/adapter"
+            android:scaleType="fitXY"/>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <EditText
+                android:hint="@string/title_of_post"
+                android:id="@+id/etPostTitle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <EditText
+                android:hint="@string/location"
+                android:id="@+id/etPostLocation"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <EditText
+                android:hint="@string/body_of_post"
+                android:id="@+id/etPostBody"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+    </android.support.design.widget.TextInputLayout>
+
+</LinearLayout>
