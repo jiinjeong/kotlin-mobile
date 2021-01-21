@@ -10,8 +10,9 @@ Implements basic shopping list application where users can see the items they wi
 ![Screenshot](Shopping.png)
 
 **Project 3: Weather** <br>
-Implements a Weather Info app using weather info from OpenWeatherMap. Uses network communication, HTTP, JSON parsing, and external libraries.
+Implements a Weather Info app using weather info from OpenWeatherMap. Uses network communication, HTTP, JSON parsing, and external libraries (Retrofit).
 ![Screenshot](Weather.png)
 
 **Project 4: Travel Pal** <br>
-Implements a travel app.
+Implements a travel app that is personalized and encompassing, helping travelers before, during, and after the trip. Uses network communication, Dialogs, Fragments, Adapter, and local data management through Room and DAO.
+![Screenshot](TravelPal.png)
