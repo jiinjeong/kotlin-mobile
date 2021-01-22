@@ -4,7 +4,8 @@
 * **Special Thanks**: Professor Ekler (AIT/BME) who provided guidance.
 
 ## Project 1: Paprika Sweeper <br>
-Implements a Paprika-themed variation of the classic Minesweeper game. Uses XML UI, Custom views, basic View components, and Activity. <br><br>
+Implements a Paprika-themed variation of the classic Minesweeper game. Uses XML UI, Custom views, basic View components, and Activity.
+* [paprika-sweeper-main](https://github.com/jiinjeong/kotlin-mobile/tree/main/paprika-sweeper-main) <br><br>
 ![Screenshot](Paprika.png)
 
 ## Project 2: Shopping List <br>
